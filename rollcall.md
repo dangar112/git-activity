@@ -7,7 +7,7 @@ Name, Organization, and (optionally) Contact Info
 -------------------------------------------------
 * Daniel Garcia, Doral College
    * Email: 3garciadaniel@gmail.com
-   * Github: dangar112
+   * Github: dangar113
    
 * Eric Piskorowski, Western New England University
     * GitHub: episkorowski 
